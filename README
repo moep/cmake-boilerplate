@@ -1,0 +1,3 @@
+A simple hello world c++ project using CMake to build.
+
+Run build.sh to build.
